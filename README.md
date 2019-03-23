@@ -7,7 +7,7 @@ Gaussian Processes in R.
 R 3.5.2+
 
 ### Getting Started
-i```
+```
 $ git clone git@github.com:simonbatzner/r_processes.git
 $ rscript run_gp.r 
 ```
