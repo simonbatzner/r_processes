@@ -5,7 +5,7 @@ Gaussian Processes in R.
 ### Requirements
 
 R 3.5.2+
-
+plotly 4.8.0+
 ### Getting Started
 ```
 $ git clone git@github.com:simonbatzner/r_processes.git
